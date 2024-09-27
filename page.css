@@ -160,3 +160,8 @@ a {
 .bg-text-flash {
   font-size: 200%;
 }
+@media screen and (min-width: 601px) {
+  div.example {
+    font-size: 80px;
+  }
+}
