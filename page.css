@@ -164,4 +164,12 @@ a {
 .bg-text-flash {
   font-size: 200%;
 }
+.topright {
+  position:absolute;top: 5px;right: 5px;
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: rgb(0, 0, 0); /* Black w/opacity/see-through */
+  color: rgb(255, 8, 8);
+  font-weight: bold;
+  border: 1px solid #f1f1f100;
+}
 
